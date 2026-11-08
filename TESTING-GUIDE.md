@@ -1,5 +1,7 @@
 # Thren — friends-and-family test build
 
+> Linux Mint testers: use the separate `.10-linux.1` tar.gz and [Linux guide](LINUX-PLAYER-GUIDE.md). It is intended for this Windows `.10` host; native Linux execution remains unverified. Windows instructions below apply to Windows packages.
+
 Version **0.4.0-private-alpha.10**, Windows x64. This is an unfinished test candidate, not a release-qualified game. The downloads are public; each multiplayer world still requires the host's private access code.
 
 ## Players
